@@ -136,14 +136,7 @@ please check your spam folder and email instructor.training@carpentries.org with
 
 <h4 id="accessibility">Accessibility</h4>
 
-We are committed to making this workshop
-accessible to everybody.
-Workshop organisers have checked that:
-
-<ul>
-  <li>The room is wheelchair / scooter accessible.</li>
-  <li>Accessible restrooms are available.</li>
-</ul>
+We are committed to making this workshop accessible to everybody. Unfortunately, the elevator in our building is broken and it will take until July to fix it. Please contact us at RSTNL@esciencecenter.nl if you cannot use the staircase.
 
 Materials will be provided in advance of the workshop. 
 If we can help make learning easier for you in any way by 
